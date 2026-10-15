@@ -1,5 +1,3 @@
-## Hi there 👋
-
 **[Gridmark](https://gridmark.dev)** - A tool to play around with grids of squares to create logomarks.
 
 <!--
